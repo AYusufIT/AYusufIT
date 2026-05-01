@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology / IT Infrastructure Projects:</h2>
 
 
-   <b>Spiceworks (Help Desk Ticketing System))</b>
+   <b>Spiceworks (Help Desk Ticketing System)</b>
   - [Ticket Lifecycle Examples](https://github.com/AYusufIT/it-desk-ticket-system-management)
   
 - <b> Oracle VirtualBox (Windows Server & Client Virtual Machine)</b>
