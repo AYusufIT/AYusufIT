@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdi, an <a href="https://linkedin.com/in/nemesio-salgado">IT Enthusiast </a>☺</h1>
+<h1>Hi, I'm Abdi, an <a href="https://linkedin.com/in/nemesio-salgado">IT Professional </a>☺</h1>
 
 <h2>👨‍💻 Information Technology / IT Infrastructure Projects:</h2>
 
